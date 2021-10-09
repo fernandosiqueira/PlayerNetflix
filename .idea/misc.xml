@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Fernando/EstudoAndroid/PlayerNetflix/app/src/main/res/drawable/ic_baseline_content_copy_24.xml" value="0.22552083333333334" />
+        <entry key="..\:/Fernando/EstudoAndroid/PlayerNetflix/app/src/main/res/drawable/ic_seta_baixo.xml" value="0.22552083333333334" />
+        <entry key="..\:/Fernando/EstudoAndroid/PlayerNetflix/app/src/main/res/layout/activity_main.xml" value="0.209375" />
         <entry key="..\:/Users/walmart/Desktop/Fernando/EstudoAndroid/PlayerNetflix/app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>

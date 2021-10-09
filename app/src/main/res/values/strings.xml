@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">PlayerNetflix</string>
+    <string name="menu_mensagem">mensagem</string>
+    <string name="menu_episodios">episodios</string>
+    <string name="menu_favoritos" />
+    <string name="menu_volume">volume</string>
 </resources>
